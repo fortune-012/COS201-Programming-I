@@ -1,7 +1,7 @@
 # COS 201 - Computer Programming I Assignment
 
 **Student Information**
-- Name: Chukwu Marvellous Ebubechukwu
-- Matriculation Number: 25/17013
-- Department: Software Engineering
+- Name: Nwafor Fortunate Chiagoziem
+- Matriculation Number: 25/17304
+- Department: Computer Science
 - Course: COS 201

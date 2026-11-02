@@ -2,9 +2,9 @@
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
-- Name: Chukwu Marvellous Ebubechukwu
-- Matriculation Number: 25/17013
-- Department: Software Engineering
+- Name: Nwafor Fortunate Chiagoziem
+- Matriculation Number: 25/17304
+- Department: Computer Science
 - Course: COS 201
 
 ### Practical Exercise

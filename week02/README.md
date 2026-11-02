@@ -1,8 +1,8 @@
 # COS201 - Computer Programming I
 ## Student Information
-- Name: Convenant Obidinma Nkwachukwu
-- Matriculation Number: 25/17309
-- Department: Computer Science
+- Name: Chukwu Marvellous Ebubechukwu
+- Matriculation Number: 25/17013
+- Department: Software Engineering
 - Course: COS 201
 - Week: 2
 

@@ -2,9 +2,9 @@
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
-- Name: Convenant Obidinma Nkwachukwu
-- Matriculation Number: 25/17309
-- Department: Computer Science
+- Name: Chukwu Marvellous Ebubechukwu
+- Matriculation Number: 25/17013
+- Department: Software Engineering
 - Course: COS 201
 
 ### Practical Exercise

@@ -2,9 +2,9 @@
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
-- Name: Mbanugo Ugochukwu Franklyn
-- Matriculation Number: 25/17996
-- Department: Computer Science
+- Name: Agwu Joyce-Jo Nneji
+- Matriculation Number: 25/17037
+- Department: Software Engineering
 - Course: COS 201
 
 ### Practical Exercise

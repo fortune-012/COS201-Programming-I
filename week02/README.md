@@ -1,8 +1,8 @@
 # COS201 - Computer Programming I
 ## Student Information
-- Name: Mbanugo Ugochukwu Franklyn
-- Matriculation Number: 25/17996
-- Department: Computer Science
+- Name: Agwu Joyce-Jo Nneji
+- Matriculation Number: 25/17037
+- Department: Software Engineering
 - Course: COS 201
 - Week: 2
 

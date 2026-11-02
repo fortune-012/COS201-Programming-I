@@ -1,8 +1,8 @@
 # COS201 - Computer Programming I
 ## Student Information
-- Name: Okparaeze Chinedum Jude
-- Matriculation Number: 25/17283
-- Department: Computer Science
+- Name: ACHUEN BENEDICT USHIE
+- Matriculation Number: 25/18091
+- Department: SOFTWARE ENGINEERING
 - Course: COS 201
 - Week: 2
 

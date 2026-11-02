@@ -1,8 +1,8 @@
 # COS201 - Computer Programming I
 ## Student Information
-- Name: Agwu Joyce-Jo Nneji
-- Matriculation Number: 25/17037
-- Department: Software Engineering
+- Name: Convenant Obidinma Nkwachukwu
+- Matriculation Number: 25/17309
+- Department: Computer Science
 - Course: COS 201
 - Week: 3 
 

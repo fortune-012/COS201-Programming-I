@@ -2,9 +2,9 @@
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
-- Name: ACHUEN BENEDICT USHIE
-- Matriculation Number: 25/18091
-- Department: SOFTWARE ENGINEERING
+- Name: Okulaja Esther Ebunoluwa
+- Matriculation Number: 25/18041
+- Department: Computer Science
 - Course: COS 201
 
 ### Practical Exercise

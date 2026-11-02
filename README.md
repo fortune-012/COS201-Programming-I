@@ -1,7 +1,7 @@
 # COS 201 - Computer Programming I Assignment
 
 **Student Information**
-- Name: ACHUEN BENEDICT USHIE
-- Matriculation Number: 25/18091
-- Department: SOFTWARE ENGINEERING
+- Name: Okulaja Esther Ebunoluwa
+- Matriculation Number: 25/18041
+- Department: Computer Science
 - Course: COS 201

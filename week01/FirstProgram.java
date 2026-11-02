@@ -4,7 +4,8 @@ public class FirstProgram {
         System.out.println("Programme: Computer Science");
         System.out.println("Reason 1: Programming helps solve computational problems.");
         System.out.println("Reason 2: Programming is a valuable skill in the job market.");
-        System.out.println("goal: To learn the basics of programming and develop problem-solving skills.");
+        // give me a different goal
+        System.out.println("goal: To become proficient in Java programming and develop strong problem-solving skills.");
         
     }
 }

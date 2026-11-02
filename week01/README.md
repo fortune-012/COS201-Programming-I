@@ -2,8 +2,8 @@
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
-- Name: Okulaja Esther Ebunoluwa
-- Matriculation Number: 25/18041
+- Name: Mbanugo Ugochukwu Franklyn
+- Matriculation Number: 25/17996
 - Department: Computer Science
 - Course: COS 201
 

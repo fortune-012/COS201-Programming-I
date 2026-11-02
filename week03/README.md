@@ -1,7 +1,7 @@
 # COS201 - Computer Programming I
 ## Student Information
-- Name: Okulaja Esther Ebunoluwa
-- Matriculation Number: 25/18041
+- Name: Mbanugo Ugochukwu Franklyn 
+- Matriculation Number: 25/17996
 - Department: Computer Science
 - Course: COS 201
 - Week: 3 
